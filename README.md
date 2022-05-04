@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seunghyunb
+- 👋 Hi, I’m @seunghyunbaek
 - 👀 I’m interested in applications.
 - 🌱 I’m currently learning andorid and kotlin.
 - 💞️ I want to collaborate on creating applications.
